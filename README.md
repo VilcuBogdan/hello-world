@@ -1,3 +1,2 @@
 # hello-world
-
-Helle human
+My first repository!
